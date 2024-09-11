@@ -74,9 +74,3 @@ This will download images by their IDs from Unsplash and save them in the `outpu
 ## License
 
 This project is licensed under the MIT License.
-```
-
-### Key Points:
-- **API rate limit**: The readme explains that you should limit the script to 50 requests per hour if using a non-production key.
-- **Environment setup**: It shows how to set up the `.env` file and input data.
-- **Scheduling**: Instructions are provided for scheduling the script to run hourly to handle rate limits.
